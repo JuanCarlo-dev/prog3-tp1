@@ -1,7 +1,7 @@
-package servicio;
+package Practico1.servicio;
 
-import modelo.Carta;
-import modelo.Mazo;
+import Practico1.modelo.Carta;
+import Practico1.modelo.Mazo;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

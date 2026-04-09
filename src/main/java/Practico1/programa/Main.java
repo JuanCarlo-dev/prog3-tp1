@@ -1,6 +1,6 @@
-package programa;
+package Practico1.programa;
 
-import servicio.Barajista;
+import Practico1.servicio.Barajista;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -10,7 +10,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        logger.info(" IICIANDO PROCESO DE BARAJADO ");
+        logger.info(" INCIANDO PROCESO DE BARAJADO ");
 
         try {
 

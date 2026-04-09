@@ -1,4 +1,4 @@
-package modelo;
+package Practico1.modelo;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
